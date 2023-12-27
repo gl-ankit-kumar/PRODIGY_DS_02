@@ -52,7 +52,7 @@ This data science project provides a holistic analysis of the Titanic dataset, s
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/gl-ankit-kumar/PRODIGY_DS_02.git
     ```
 
 2. **Explore with Jupyter Notebook:**
