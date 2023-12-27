@@ -56,7 +56,7 @@ This data science project provides a holistic analysis of the Titanic dataset, s
     ```
 
 2. **Explore with Jupyter Notebook:**
-    - Open `Titanic_Dataset_Analysis.ipynb` in Jupyter Notebook for an interactive experience.
+    - Open `EDA on Titanic Dataset.ipynb` in Jupyter Notebook for an interactive experience.
 
 ## Inferences
 - Data Exploration
