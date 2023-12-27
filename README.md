@@ -7,7 +7,7 @@ EXPLORATORY DATA ANALYSIS OVER TITANIC DATASET
   <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_02/blob/main/Titanic.png" alt="Titanic Logo">
 </div>
 
-# Titanic Dataset Analysis with Python and Matplotlib 🚢📊
+# Titanic Dataset Analysis with Python, Matplotlib, Pandas, NumPy and Scikit-learn 🚢📊
 
 Embark on a comprehensive data exploration journey with this repository, offering a deep dive into the Titanic dataset using Python in a Jupyter Notebook. Discover hidden patterns, engineer impactful features, train machine learning models, and rigorously evaluate their performance.
 
